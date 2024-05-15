@@ -7,5 +7,9 @@
 
 .firstSlot, .secondSlot, .thirdSlot {
   flex:1;
-  border: 1px solid black
+  border: 1px solid black;
+  overflow: hidden;
+}
+.icon {
+  font-size:100px;
 }
