@@ -1,0 +1,11 @@
+.game {
+  width: 50vw;
+  height: 60vh;
+  margin:auto;
+
+}
+
+.firstSlot, .secondSlot, .thirdSlot {
+  flex:1;
+  border: 1px solid black
+}
